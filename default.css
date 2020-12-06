@@ -1,6 +1,3 @@
-.pageTitleWithDefaultLogo {
-  background-image: url(https://raw.githubusercontent.com/Weedalf/JellyFlix/main/images/banner-light.png);
-}
 
 /*cardbox border-radius change*/
 #indexPage button.cardImageContainer.cardContent.itemAction.lazy.blurhashed.lazy-image-fadein-fast,
@@ -11,6 +8,13 @@
 .emby-scroller button.cardImageContainer {
     border-radius: 5px 5px 0px 0px !important;
 }
+
+
+.pageTitleWithDefaultLogo {
+    background-image: url(https://raw.githubusercontent.com/Weedalf/JellyFlix/main/images/banner-light.png);
+}
+
+
 .cardBox:not(.visualCardBox) .cardPadder, .cardContent-shadow {
     box-shadow: none;
 }
