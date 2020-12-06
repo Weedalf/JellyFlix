@@ -1,3 +1,7 @@
+.pageTitleWithDefaultLogo {
+  background-image: url(https://raw.githubusercontent.com/Weedalf/JellyFlix/main/images/banner-light.png);
+}
+
 /*cardbox border-radius change*/
 #indexPage button.cardImageContainer.cardContent.itemAction.lazy.blurhashed.lazy-image-fadein-fast,
 .emby-scroller button.cardImageContainer.coveredImage.cardContent,
