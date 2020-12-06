@@ -10,11 +10,6 @@
 }
 
 
-.pageTitleWithDefaultLogo {
-    background-image: url(https://raw.githubusercontent.com/Weedalf/JellyFlix/main/images/banner-light.png);
-}
-
-
 .cardBox:not(.visualCardBox) .cardPadder, .cardContent-shadow {
     box-shadow: none;
 }
